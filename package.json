@@ -1,0 +1,23 @@
+{
+  "name": "docker-sandbox",
+  "version": "1.0.0",
+  "description": "This project is a sandbox project which uses docker containers for isolation",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "keywords": [
+    "\"docker\"",
+    "\"remote",
+    "code",
+    "execution\"",
+    "\"sandbox\"",
+    "\"docker",
+    "sandbox\""
+  ],
+  "author": "nazmi-yilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "dockerode": "^3.2.0"
+  }
+}
